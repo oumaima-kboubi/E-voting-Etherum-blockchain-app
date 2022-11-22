@@ -121,4 +121,5 @@ $(function() {
   });
 });
 
+//the phrase given by Metamask locally
 //plunge core junior project video unlock bamboo case position abandon inhale few
